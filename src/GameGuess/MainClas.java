@@ -11,6 +11,17 @@ public class MainClas {
 
       */
 
+    /*
+
+        Main methodunda
+
+     İlk olarak randomGenerator method undan random sayıyı alın
+
+     Sonra LetsGuess method unu çağırın. randomGenerator num LetsGuess method unun parametresidir
+
+     */
+
+
     public static void main(String[] args) {
 
 

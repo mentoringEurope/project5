@@ -18,6 +18,24 @@ public class Calculation {
      */
 
 
+     /*
+        getRam methodunu oluşturalım
+
+        Parametresi  ArrayList<String> olsun
+
+
+        Eğer ram 32 gb ise price 300 ekle
+        Eğer ram 16 gb ise price 200 ekle
+        Eğer ram 8 gb ise price 100 ekle
+        Eğer ram 4 gb ise price 50 ekle
+
+
+        return  price olmalı.
+
+        Not price -- fiyat
+     */
+
+
     /*
        Create method name is getCPU
 
@@ -28,6 +46,21 @@ public class Calculation {
         if CPU is i7 add 500 to price
 
         return the price.
+     */
+
+
+      /*
+        getCPU  methodunu oluşturalım
+
+        Parametresi  ArrayList<String> olsun
+
+
+        Eğer CPU i3 ise price 200 ekle
+        Eğer CPU i5 ise price 300 ekle
+        Eğer CPU i7 ise price 500 ekle
+
+
+        return  price olmalı.
      */
 
 
@@ -46,6 +79,26 @@ public class Calculation {
       return the price.
    */
 
+     /*
+        getColor methodunu oluşturalım
+
+        Parametresi  ArrayList<String> olsun
+
+        return türü int olmalı
+
+
+        Eğer Color Red ise ise price 400 ekle
+        Eğer Color Orange ise price 300 ekle
+        Eğer Color Silver ise price 200 ekle
+        Eğer Color Black ise price 150 ekle
+
+
+        return  price olmalı.
+
+     */
+
+
+
     /*
       Create method name is getSize
 
@@ -59,6 +112,23 @@ public class Calculation {
 
       return the price.
    */
+
+    /*
+        getSize  methodunu oluşturalım
+
+        return türü int olmalı
+
+        Parametresi  ArrayList<String> olsun
+
+
+        Eğer Size "Mini" içeriyorsa price 100 ekle
+        Eğer Size "Middle" içeriyorsa price 200 ekle
+        Eğer Size "Max" içeriyorsa price 300 ekle
+
+
+        return  price olmalı.
+     */
+
 
 
 }

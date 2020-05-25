@@ -27,6 +27,30 @@ public class Data {
 
      */
 
+    /*
+    BU DOSYADAN HERHANGİ BİR SATIRI DEĞİŞTİRMEYİN
+
+    Bu methodda laptopla ilgili tüm verilere sahipsiniz.
+
+    Parametre int
+
+    return türü ArrayList <Dtring>
+
+    ArrayList'te sırayla neler var:
+
+    Marka
+    Model
+    Ram
+    CPU
+    Renk
+
+    Bu sıralama her zaman aynıdır, değişmez.
+
+
+     */
+
+
+
     public ArrayList<String> AllData(int laptopID){
 
         TreeMap<Integer , ArrayList<String>> allData  = new TreeMap<>();

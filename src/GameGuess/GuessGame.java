@@ -14,6 +14,23 @@ public class GuessGame {
      */
 
 
+
+ /*
+
+
+        randomGenerator ()  methodunu oluşturalım.
+
+        Bu method 0 ile 100 arasında random bir sayı oluşturmalı.
+
+        Bu method random sayıyı return etmelı.
+
+        Return türü int olmalı
+
+     */
+
+
+
+
   /*
         Create a method name is LetsGuess().
 
@@ -40,5 +57,42 @@ public class GuessGame {
          2) Both of these methods are not a static methods
 
      */
+
+
+
+
+/*
+
+         LetsGuess ()  methodunu oluşturalım.
+
+         Bu method parametre olarak bir int almalı.
+
+        Return türü void olsun.
+
+        Bu method da, doğru sayıyı tahmin edene kadar sayıları tahmin etmeye devam etmelisiniz.
+
+        Numaranız random sayıdan küçükse "Numaranız çok düşük" yazdıralım.
+
+        Numaranız random sayıdan büyükse "Numaranız çok yüksek" yazdıralım.
+
+        Tahmin numaranız  random sayıya eşit olduğunda "You got it !!" yazdıralım
+
+        Ve execution durdurun.
+
+        Tahmin girişiminiz maksimum 5'tir.
+
+        Eğer tahmininiz  5'e ulaşırsa "Anlamadım dostum !!!"
+
+        Not:
+         1) Sayıları tahmin ederken Scanner Class kullanmanız gerekir.
+         2) Bu methodların her ikisi de statik bir method değildir
+ */
+
+
+
+
+
+
+
 
 }
