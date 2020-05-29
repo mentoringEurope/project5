@@ -67,6 +67,7 @@ public class Test1 {
         Assert.assertTrue("result should be 1845 but your result is " + total,total == 1845);
     }
 
+
     @Test
     public void test6(){
         PriceForOneLaptop p1 = new PriceForOneLaptop();
