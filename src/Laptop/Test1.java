@@ -12,7 +12,7 @@ public class Test1 {
 
         int num = p1.getPrice(1100000);
 
-        Assert.assertTrue("result should be 850 but your result is " + num,num == 850);
+        Assert.assertTrue("sonuç 850 olmalı ama senin sonuç " + num,num == 850);
     }
 
     @Test
@@ -21,7 +21,7 @@ public class Test1 {
 
         int num = p1.getPrice(1100001);
 
-        Assert.assertTrue("result should be 750 but your result is " + num,num == 750);
+        Assert.assertTrue("sonuç 750 olmalı ama senin sonuç " + num,num == 750);
     }
 
 
@@ -31,7 +31,7 @@ public class Test1 {
 
         int num = p1.getPrice(1100002);
 
-        Assert.assertTrue("result should be 1100 but your result is " + num,num == 1100);
+        Assert.assertTrue("sonuç 1100 olmalı ama senin sonuç " + num,num == 1100);
     }
 
 
@@ -48,7 +48,7 @@ public class Test1 {
         System.out.println(total);
         total = p1.getDiscount(total , 20);
         System.out.println(total);
-        Assert.assertTrue("result should be 2120 but your result is " + total,total == 2120);
+        Assert.assertTrue("sonuç 2120 olmalı ama senin sonuç " + total,total == 2120);
     }
 
     // 530
@@ -64,7 +64,7 @@ public class Test1 {
 
         total = p1.getDiscount(total , 10);
 
-        Assert.assertTrue("result should be 1845 but your result is " + total,total == 1845);
+        Assert.assertTrue("sonuç 1845 olmalı ama senin sonuç " + total,total == 1845);
     }
 
 
@@ -80,7 +80,7 @@ public class Test1 {
 
         total = p1.getDiscount(total , 10);
 
-        Assert.assertTrue("result should be 2025 but your result is " + total,total == 2025);
+        Assert.assertTrue("sonuç 2025 olmalı ama senin sonuç " + total,total == 2025);
 
     }
 

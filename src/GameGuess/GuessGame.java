@@ -71,9 +71,9 @@ public class GuessGame {
 
         Bu method da, doğru sayıyı tahmin edene kadar sayıları tahmin etmeye devam etmelisiniz.
 
-        Numaranız random sayıdan küçükse "Numaranız çok düşük" yazdıralım.
+        Numaranız random sayıdan küçükse "Your number is too low" yazdıralım.
 
-        Numaranız random sayıdan büyükse "Numaranız çok yüksek" yazdıralım.
+        Numaranız random sayıdan büyükse "Your number is too high" yazdıralım.
 
         Tahmin numaranız  random sayıya eşit olduğunda "You got it !!" yazdıralım
 
